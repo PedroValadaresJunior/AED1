@@ -1,4 +1,4 @@
-# Algorítmo e Estrutura de Dados
+# Algoritmo e Estrutura de Dados
 
 CDN - Ciência de Dados para Negócios
 
